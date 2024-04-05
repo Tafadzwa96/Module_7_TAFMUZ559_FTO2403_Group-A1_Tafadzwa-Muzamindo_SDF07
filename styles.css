@@ -76,6 +76,7 @@ img {
     margin-right: 3rem;   
  } 
  .profile-image img{
+    border: 9px solid #60815f;
     border-radius: 50%;
     
  }
